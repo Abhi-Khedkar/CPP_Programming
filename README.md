@@ -39,21 +39,18 @@ On Linux / Mac:
 
 The repository is divided into daily classwork and structured assignment folders, growing from basic to advanced levels:
 
-Cpp_Programming/
+```text
+CPP_Programming/
 ├── README.md
 ├── Classwork/ (Daily batch practice programs)
 │   ├── Day_01/
 │   │   ├── program1.cpp
-│   │   ├── program2.cpp
-│   │   └── ...
-│   ├── Day_02/
-│   │   └── ...
+│   │   └── program2.cpp
+│   └── Day_02/
 └── Assignments/ (Logic Building Assignments)
-    ├── Assignment_1/ 
+    ├── Assignment_1/
     │   ├── main.cpp
     │   ├── program1_1.cpp
-    │   ├── program1_2.cpp
-    │   └── ...
-    ├── Assignment_2/ 
-    │   ├── program2_1.cpp
-    │   └── ...
+    │   └── program1_2.cpp
+    └── Assignment_2/
+        └── program2_1.cpp
